@@ -1,6 +1,0 @@
-The null hypothesis is that orthoordent is no better than He et al.
-
-In order to reject the null hypothesis, we assume it and look at how probable our results are.
-
-Let X be a random variable representing the average difference between orthoordent and he initialization accuracies at timestep T.
-
